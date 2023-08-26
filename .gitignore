@@ -1,0 +1,5 @@
+venv/
+img/
+.idea
+__pycache__
+category.txt
